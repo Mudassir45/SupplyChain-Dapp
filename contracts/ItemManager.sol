@@ -4,7 +4,6 @@ import "./Item.sol";
 import "./Ownable.sol";
 
 contract ItemManager is Ownable{
-    // This contract is responsible for recieving payments and sending back to ItemManager contract
     
     uint index;
     
