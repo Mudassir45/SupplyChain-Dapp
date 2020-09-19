@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,cACE,iBACF,CAEA,aACE,eAAgB,CAChB,iBACF","file":"main.3e0237c6.chunk.css","sourcesContent":[".my-container {\n  text-align: center;\n}\n\n.form-custom {\n  text-align: left;\n  margin: 50px 150px;\n}\n"]}
